@@ -37,3 +37,5 @@ src="https://img.shields.io/github/followers/zeeshanibrarali?logo=github&style=f
 <a href="http://www.github.com/zeeshanibrarali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanibrarali&stroke=000000&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/zeeshanibrarali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanibrarali&langs_count=10&title_color=a855f7&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanibrarali&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
