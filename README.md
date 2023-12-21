@@ -20,6 +20,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Your Full Stack Developer 
 -------------------------
+<div align="center">
+ <img src="https://media.giphy.com/media/S6u9W0er5gzv0llFAe/giphy.gif" width="1000"/>
+</div>
 
 Being raised in a military family has instilled in me a sense of elegance, discipline, and timeliness. I was always good at team sports as a child, which helped me develop my leadership, teamwork, and ability to overcome obstacles. To improve my soft skills, I do Model United Nations events frequently. I enjoy spending time with my family, reading, jogging in the morning, riding my bicycle, listening to podcasts, and using Duolingo to learn German.
 
