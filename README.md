@@ -1,20 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeeshan Ibrar
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/zeeshan-ibrar-6a3913256/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@Zeeshan_Ibrar">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="http://www.instagram.com/im_zeeshan_ibrarL">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+  <div><img src="https://komarev.com/ghpvc/?username=zeeshanibrarali&style=flat-square&color=blue" alt=""/></div>
+</div>
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeeshan Ibrar 
 =====================================================================================================================================
 
-Your Full Stack Developer
+Your Full Stack Developer 
 -------------------------
 
 Being raised in a military family has instilled in me a sense of elegance, discipline, and timeliness. I was always good at team sports as a child, which helped me develop my leadership, teamwork, and ability to overcome obstacles. To improve my soft skills, I do Model United Nations events frequently. I enjoy spending time with my family, reading, jogging in the morning, riding my bicycle, listening to podcasts, and using Duolingo to learn German.
 
-* 🌍  I'm based in Karachi, Pakistan
+* 🌍  I'm based in Karachi, Pakistan          
 * ✉️  You can contact me at [zeeshanibrar10987@gmail.com](mailto:zeeshanibrar10987@gmail.com)
 * 🚀  I'm currently working on [FoodShare (Food Donation Web App)](http://github.com/zeeshanibrarali/FoodShare)
 * 🧠  I'm learning MERN STACK development
 * 🤝  I'm open to collaborating on my Discord Clone, Chess Engine, BookNotes
 * ⚡  I placed second in the Karachi Board 2021 HSSC (12th standard).
-
-<a href="https://www.github.com/zeeshanibrarali" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/zeeshanibrarali?logo=github&style=for-the-badge&color=a855f7&labelColor=ffffff" /></a>
 
 ### Skills
 
@@ -32,10 +46,10 @@ src="https://img.shields.io/github/followers/zeeshanibrarali?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/zeeshanibrarali"><img src="https://github-readme-stats.vercel.app/api?username=zeeshanibrarali&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="zeeshanibrarali's GitHub stats" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zeeshanibrarali&theme=dark&border_radius=7.9&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
-<a href="http://www.github.com/zeeshanibrarali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshanibrarali&stroke=000000&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zeeshanibrarali?cardType=octocat&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<a href="https://github.com/zeeshanibrarali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanibrarali&langs_count=6&title_color=a855f7&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanibrarali&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanibrarali&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zeeshanibrarali&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
