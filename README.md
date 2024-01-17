@@ -29,8 +29,8 @@ Being raised in a military family has instilled in me a sense of elegance, disci
 * 🌍  I'm based in Karachi, Pakistan          
 * ✉️  You can contact me at [zeeshanibrar10987@gmail.com](mailto:zeeshanibrar10987@gmail.com)
 * 🚀  I'm currently working on [FoodShare (Food Donation Web App)](http://github.com/zeeshanibrarali/FoodShare)
-* 🧠  I'm learning MERN STACK development
-* 🤝  I'm open to collaborating on my Discord Clone, Chess Engine, BookNotes
+* 🧠  I'm learning advanced python
+* 🤝  I'm open to collaborating on FoodShare, my Discord Clone, Chess Engine, BookNotes
 * ⚡  I placed second in the Karachi Board 2021 HSSC (12th standard).
 
 ### Skills
