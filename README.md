@@ -18,7 +18,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zeeshan Ibrar 
 =====================================================================================================================================
 
-Your Full Stack Developer 
+Your Machine Learning Engineer 
 -------------------------
 <div align="center">
  <img src="https://media.giphy.com/media/S6u9W0er5gzv0llFAe/giphy.gif" width="1000"/>
@@ -28,8 +28,8 @@ Being raised in a military family has instilled in me a sense of elegance, disci
 
 * 🌍  I'm based in Karachi, Pakistan          
 * ✉️  You can contact me at [zeeshanibrar10987@gmail.com](mailto:zeeshanibrar10987@gmail.com)
-* 🚀  I'm currently working on [FoodShare (Food Donation Web App)](http://github.com/zeeshanibrarali/FoodShare)
-* 🧠  I'm learning advanced python
+* 🚀  I'm currently working on machine learning projects.
+* 🧠  I'm learning advanced machine learning.
 * 🤝  I'm open to collaborating on FoodShare, my Discord Clone, Chess Engine, BookNotes
 * ⚡  I placed second in the Karachi Board 2021 HSSC (12th standard).
 
