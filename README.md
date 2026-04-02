@@ -85,9 +85,6 @@ I'm a **Python AI/ML Developer** based in Karachi, Pakistan.
 &nbsp;
 <a href="https://www.youtube.com/@Zeeshan_Ibrar" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32"/></a>
 &nbsp;
-<a href="http://www.instagram.com/im_zeeshan_ibrar" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>
-&nbsp;
-<a href="https://www.stackoverflow.com/users/19667718/zeeshan-ibrar" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"/></a>
 </p>
 
 <div align="center">
