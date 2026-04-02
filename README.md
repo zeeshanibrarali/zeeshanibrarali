@@ -25,25 +25,16 @@
 
 ### 👋 About Me
 
-I'm a **Python AI/ML Developer** based in Karachi, Pakistan, currently working at **Euronet Pakistan** as an Associate Software Developer — building data migration pipelines and reconciliation systems at banking scale.
+I'm a **Python AI/ML Developer** based in Karachi, Pakistan.
 
-I build things that sit at the intersection of **machine learning and real-world products** — from AI-powered fashion recommenders to ITOps incident classifiers. I care about clean pipelines, accurate models, and software that actually solves something.
-
-- 🏢 Currently at **Euronet Pakistan** — data engineering, bank migrations, production systems
+- 🏢 **Nixaam LLC** — AI/ML Python Developer  
+  Building intelligent systems for healthcare IT — Teleradiology, DICOM, 
+  medical imaging, and cloud SaaS platforms
+- 🏢 Previously at **Euronet Pakistan** — data engineering & bank migrations at scale
 - 🎓 BSE Computer Software Engineering — **Bahria University** (2021–2025)
 - 🏆 **2nd Board Position**, Sindh HSSC 2021
-- 🌐 Portfolio: [zinov.pythonanywhere.com](https://zinov.pythonanywhere.com)
+- 🌐 [zinov.pythonanywhere.com](https://zinov.pythonanywhere.com)
 - 📬 [inboxtozeeshanibrar@gmail.com](mailto:inboxtozeeshanibrar@gmail.com)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it solves | Stack | Accuracy |
-|---------|---------------|-------|----------|
-| [**Glamora**](https://github.com/zeeshanibrarali/Glamora) | Cold-start fashion recommendations via hybrid ML | Django, React, TF-IDF, k-means, cosine similarity | 89% relevance |
-| [**Incident Root Cause Prediction**](https://github.com/zeeshanibrarali/Incident-Root-Cause-Prediction) | Maps 7 ITOps symptoms to root causes automatically | TensorFlow, Keras, Scikit-learn | 83% test accuracy |
-| [**Spam Classification**](https://github.com/zeeshanibrarali/Spam-Classification) | SMS spam detection with custom NLP pipeline | TensorFlow, NLTK, TF-IDF | 96% accuracy |
 
 ---
 
