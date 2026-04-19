@@ -27,10 +27,10 @@
 
 I'm a **Python AI/ML Developer** based in Karachi, Pakistan.
 
-- 🏢 **Nixaam LLC** — AI/ML Python Developer  
+- 🏢 **Nixaam LLC** — AI/ML Python Developer (Remote/Part-Time)
   Building intelligent systems for healthcare IT — Teleradiology, DICOM, 
   medical imaging, and cloud SaaS platforms
-- 🏢 Previously at **Euronet Pakistan** — data engineering & bank migrations at scale
+- 🏢 **Euronet Pakistan** — data engineering & bank migrations at scale 
 - 🎓 BSE Computer Software Engineering — **Bahria University** (2021–2025)
 - 🏆 **2nd Board Position**, Sindh HSSC 2021
 - 🌐 [zinov.pythonanywhere.com](https://zinov.pythonanywhere.com)
